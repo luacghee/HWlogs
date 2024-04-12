@@ -1,6 +1,4 @@
 # HWlogs
-
-## Description
 Simple shell script to log CPU (_mpstats_ & _sensors_) and GPU (_nvidia-smi_) utilization and temperature into respective csv files. Also logs other device outputs from _sensor_. Logging is done periodically for every interval (30s default) and outputs are categorized based on dates.
 
 
